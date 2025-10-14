@@ -1,0 +1,7 @@
+[build]
+  command = "npm run build"
+  # publish can be "." because Netlify's adapter provisions the runtime for Next.
+  publish = "."
+
+[[plugins]]
+  package = "@netlify/plugin-nextjs"
