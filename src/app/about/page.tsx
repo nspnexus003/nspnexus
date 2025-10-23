@@ -43,7 +43,7 @@ export default function AboutUs() {
   const stats = [
     { icon: Users, number: "350+", label: "Community Members" },
     { icon: Award, number: "10+", label: "Upcoming Events" },
-    { icon: Globe, number: "5+", label: "Groups of Intern" },
+    { icon: Globe, number: "50+", label: "Groups of Intern" },
     { icon: TrendingUp, number: "350+", label: "Handpicked Internships" }
   ];
 
